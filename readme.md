@@ -14,3 +14,6 @@ For contributors:
 - [General coding guidelines](https://github.com/arshaw/fullcalendar/wiki/Contributing-Code)
 - [Contributing features](https://github.com/arshaw/fullcalendar/wiki/Contributing-Features)
 - [Contributing bugfixes](https://github.com/arshaw/fullcalendar/wiki/Contributing-Bugfixes)
+- 
+
+参数文档：http://www.helloweba.com/view-blog-231.html
